@@ -22,8 +22,8 @@ title: OsaiFu Inc.
 email: info@osai-fu.co.jp
 description: >- # this means to ignore newlines until "baseurl:"
   株式会社OsaiFuの公式サイトです。
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://osaifu-inc.github.io/osai-fu.co.jp/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/osai-fu.co.jp/" # the subpath of your site, e.g. /blog
+url: "https://osaifu-inc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
